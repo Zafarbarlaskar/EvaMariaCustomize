@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Zafarbarlaskar/Zafarbarlaskar",
-    "repository": "https://githum.com/Zafarbarlaskar/EvaMaria",
+    "repository": "https://github.com/Zafarbarlaskar/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
